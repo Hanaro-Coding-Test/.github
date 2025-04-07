@@ -33,7 +33,7 @@
     <td align="center">Java</td>
     <td align="center">Java</td>
     <td align="center">Java</td>
-    <td align="center">Python, JS</td>
+    <td align="center">Python</td>
     <td align="center">C++</td>
   </tr>
 </table>
